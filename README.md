@@ -7,8 +7,8 @@
 
 ## Check out my projects!
 * [Cursed - Swift](https://github.com/tridentget/cursed)
-* [Pipe Up - C]()
-* [Topo Sort - Python]()
+* [Pipe Up - C](https://github.com/tridentget/Pipe-Up)
+* [Topo Sort - Python](https://github.com/tridentget/Topo-Sort)
 
 
 
