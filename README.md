@@ -6,9 +6,9 @@
 - 2021 Goals: Become proficient in Node & React 
 
 ## Check out my projects!
-* [Cursed - Swift](https://github.com/tridentget/cursed)
-* [Pipe Up - C](https://github.com/tridentget/Pipe-Up)
-* [Topo Sort - Python](https://github.com/tridentget/Topo-Sort)
+* [Cursed](https://github.com/tridentget/cursed)
+* [Pipe Up](https://github.com/tridentget/Pipe-Up)
+* [Topo Sort](https://github.com/tridentget/Topo-Sort)
 
 
 
