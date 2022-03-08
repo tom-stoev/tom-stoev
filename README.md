@@ -3,7 +3,7 @@
 ## I'm a UCLA Junior with a passion for coding!
 - I'm currently working on Beta Testing my IOS Application 'Cursed' 
 - I'm further developing my software skills
-- 2021 Goals: Become proficient in Node & React 
+- 2022 Goals: Learn blockchain in detail
 
 ## Check out my projects!
 * [Cursed](https://github.com/tridentget/cursed)
