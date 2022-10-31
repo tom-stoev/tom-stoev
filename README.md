@@ -6,6 +6,7 @@
 - I am kind, easy to talk to, cooperative, and enthusiastic!
 
 ## Check out my projects!
+* [Free and For Sale Web Application](https://github.com/cs130-w22/Group-B2)
 * [IOS Game - Cursed](https://github.com/tridentget/cursed)
 * [Pipe Up](https://github.com/tridentget/Pipe-Up)
 * [Topo Sort](https://github.com/tridentget/Topo-Sort)
