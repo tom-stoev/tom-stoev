@@ -1,6 +1,5 @@
 ### Hi there, I'm Tom
 
-## I'm a UCLA Senior with a passion for coding!
 I am passionate and motivated towards creating software with a focus on backend development. I am graduating from the UCLA Samueli School of Engineering in June 2023 (GPA: 3.9). 
 
 I have previous industry experience via a Software Developer Internship at Norton Lifelock where my roles consisted of:
